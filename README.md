@@ -15,7 +15,7 @@ This is a Python-based voice assistant using OpenAI's GPT-3.5 language model. Th
 
 ## Usage
 
-- Clone the repository
+- Clone the repository: `git clone https://github.com/ishaanbhimwal/SG-AI.git`
 - Install the required libraries: `pip install -r resources/requirements.txt`
 - Append your [OpenAI API Key](https://platform.openai.com/docs/quickstart/add-your-api-key) in `openai.api_key` variable in `sg_ai.py`
 - Run the `sg_ai.py` file: `python sg_ai.py`

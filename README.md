@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Python-based voice assistant using OpenAI's GPT-3.5 language model. The assistant is named "SG-AI" (Suraksha Glove AI) and is designed to provide information and assistance related to the Suraksha Glove project. The project is focused on providing a safety solution for women using a wearable device that can notify family and police for assistance, generate a loud sound, and provide a self-defence mechanism.
+This is a Python-based voice assistant using OpenAI's GPT-3.5 language model. The assistant is named "SG-AI" (Suraksha Glove AI) and is designed to provide information and assistance related to the [Suraksha Glove](https://github.com/ishaanbhimwal/Suraksha-Glove) project. The project is focused on providing a safety solution for women using a wearable device that can notify family and police for assistance, generate a loud sound, and provide a self-defence mechanism.
 
 ## Requirements
 
@@ -17,7 +17,7 @@ This is a Python-based voice assistant using OpenAI's GPT-3.5 language model. Th
 
 - Clone the repository: `git clone https://github.com/ishaanbhimwal/SG-AI.git`
 - Install the required libraries: `pip install -r resources/requirements.txt`
-- Append your [OpenAI API Key](https://platform.openai.com/docs/quickstart/add-your-api-key) in `openai.api_key` variable in `sg_ai.py`
+- Append your OpenAI [API Key](https://platform.openai.com/docs/quickstart/add-your-api-key) in `openai.api_key` variable in `sg_ai.py`
 - Run the `sg_ai.py` file: `python sg_ai.py`
 
 ## Working
